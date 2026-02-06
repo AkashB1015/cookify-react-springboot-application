@@ -1,0 +1,108 @@
+.cookie-card {
+  width: 350px;
+  border-radius: 18px;
+  overflow: hidden;
+}
+
+.cookie-card img {
+  height: 240px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.qty-btn {
+  width: 35px;
+  height: 35px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  background: white;
+  font-size: 20px;
+}
+
+.qty-value {
+  width: 40px;
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.error-text {
+  color: red;
+  font-size: 13px;
+  margin-top: -8px;
+}
+
+
+.fancy-heading {
+  font-weight: 700;
+  font-size: 2rem;
+  color: #5a2d0c;
+  text-shadow: 1px 1px 3px #d6c2a5;
+}
+
+/* COOKIE CARDS */
+.cookie-card {
+  border-radius: 16px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  background: #fffdf7;
+  border: 1px solid #f0e6d6;
+}
+
+.cookie-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 8px 20px rgba(150, 115, 80, 0.2);
+}
+
+.cookie-title {
+  font-weight: 600;
+  color: #6b3e20;
+}
+
+.cookie-desc {
+  font-size: 0.9rem;
+  color: #604a3c;
+}
+
+.cookie-stock {
+  font-size: 0.9rem;
+  color: #7a6149;
+}
+
+/* QUANTITY BOX */
+.qty-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  margin-top: 12px;
+}
+
+.qty-btn {
+  width: 40px;
+  height: 40px;
+  font-size: 22px;
+  border-radius: 50%;
+  font-weight: bold;
+}
+
+.qty-value {
+  font-size: 20px;
+  width: 38px;
+  text-align: center;
+  font-weight: bold;
+  color: #4b3b2d;
+}
+
+/* PLACE ORDER BUTTON */
+.place-order-btn {
+  background-color: #8d5a2e;
+  border: none;
+  padding: 12px 30px;
+  font-size: 18px;
+  border-radius: 10px;
+  transition: background 0.2s ease;
+}
+
+.place-order-btn:hover {
+  background-color: #6e411f;
+}
