@@ -20,7 +20,7 @@
 <img width="1906" height="1041" alt="image 1 " src="https://github.com/user-attachments/assets/ae8f259d-f3eb-4c71-852d-1ce3fcc7065f" />
 
 <hr>
-# Cookify-Store
+# Cookify-Store Page
 <br>
 <img width="1892" height="1094" alt="Screenshot 2025-12-14 195203" src="https://github.com/user-attachments/assets/db62c476-a8f1-485c-896d-4005f2c17df3" />
 
